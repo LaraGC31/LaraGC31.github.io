@@ -6,7 +6,7 @@
 }
 
 html, body{
-  background-image: url(img/images.jpg);
+  background-image: url(../img/images.jpg);
 }
 header {
   display: flex;
