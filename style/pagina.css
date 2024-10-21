@@ -17,8 +17,8 @@ header {
 }
 
 .logo {
-max-width: 25%;
-  height: auto;
+width: 25vh;
+height: 20vh;
 }
 ul{
   display: flex;
